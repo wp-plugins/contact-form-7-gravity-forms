@@ -35,7 +35,7 @@ For those of you using the <a href="http://wordpress.org/extend/plugins/contact-
 
 == Screenshots ==
 
-1. The import page
+1. A view of the form import page
 
 
 == Installation == 
