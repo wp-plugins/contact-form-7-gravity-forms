@@ -1,7 +1,7 @@
 === Contact Form 7 Gravity Forms Importer ===
 Tags: gravity forms, forms, gravity, form, crm, gravity form, mail, email, newsletter, Constant Contact, plugin, sidebar, widget, mailing list, API, email marketing, newsletters
 Requires at least: 2.8
-Tested up to: 3.2.1
+Tested up to: 3.3.1
 Stable tag: trunk
 Contributors: katzwebdesign
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=zackkatz%40gmail%2ecom&item_name=Contact%20Form%207%20Gravity%20Forms%20Importer&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
@@ -12,7 +12,7 @@ Convert Contact Form 7 forms into Gravity Forms forms.
 
 > This plugin requires both the <a href="http://wordpress.org/extend/plugins/contact-form-7/" rel="nofollow">Contact Form 7 plugin</a> and the amazing contact form/lead management plugin <a href="http://wordpressformplugin.com/?r=gfcf7" rel="nofollow">Gravity Forms</a>
 
-## Import your existing Contact Form 7 forms into Gravity Forms
+### Import your existing Contact Form 7 forms into Gravity Forms
 If you are migrating from Contact Form 7 to Gravity Forms, this is the tool for you. Easily import your CF7 forms into Gravity Forms rather than re-creating them manually.
 
 * Recreate notification emails inside Gravity Forms
