@@ -2,7 +2,7 @@
 /*
 Plugin Name: Gravity Forms Contact Form 7 Importer
 Plugin URI: http://www.katzwebservices.com
-Description: Import your existing Contact Form 7 forms into <a href="http://wordpressformplugin.com?r=gfcf7">Gravity Forms</a>.
+Description: Import your existing Contact Form 7 forms into <a href="http://formplugin.com?r=gfcf7">Gravity Forms</a>.
 Author: Katz Web Services, Inc.
 Version: 1.0.1
 Author URI: http://www.katzwebservices.com
