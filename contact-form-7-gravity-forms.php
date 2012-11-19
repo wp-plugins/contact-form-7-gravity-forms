@@ -8,7 +8,7 @@ Version: 1.0.2
 Author URI: http://www.katzwebservices.com
 
 ------------------------------------------------------------------------
-Copyright 2011 Katz Web Services, Inc.
+Copyright 2012 Katz Web Services, Inc.
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
