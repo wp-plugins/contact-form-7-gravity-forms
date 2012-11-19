@@ -1,7 +1,7 @@
 === Contact Form 7 Gravity Forms Importer ===
 Tags: gravity forms, forms, gravity, form, crm, gravity form, mail, email, newsletter, Constant Contact, plugin, sidebar, widget, mailing list, API, email marketing, newsletters
 Requires at least: 2.8
-Tested up to: 3.3.1
+Tested up to: 3.5
 Stable tag: trunk
 Contributors: katzwebdesign
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=zackkatz%40gmail%2ecom&item_name=Contact%20Form%207%20Gravity%20Forms%20Importer&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
@@ -59,6 +59,9 @@ This plugin is released under a GPL license.
 
 == Upgrade Notice ==
 
+= 1.0.2 =
+* Fixed: Now pulls more than just five of the latest forms <a href="http://wordpress.org/support/topic/only-a-small-selection-of-forms-in-dropdown-list">as reported here</a>.
+
 = 1.0.1 =
 * Added option to combine address & name fields
 
@@ -66,6 +69,9 @@ This plugin is released under a GPL license.
 * No upgrade notice, since this is the first version!
 
 == Changelog ==
+
+= 1.0.2 =
+* Fixed: Now pulls more than just five of the latest forms <a href="http://wordpress.org/support/topic/only-a-small-selection-of-forms-in-dropdown-list">as reported here</a>.
 
 = 1.0.1 =
 * Added option to combine address & name fields
