@@ -15,7 +15,7 @@ Convert Contact Form 7 forms into Gravity Forms forms.
 
 We've finally re-written the plugin, so check it out and see for yourself before you let the bad reviews stop you!
 
-> This plugin requires both the <a href="http://wordpress.org/extend/plugins/contact-form-7/" rel="nofollow">Contact Form 7 plugin and the amazing contact form plugin <a href="http://www.formplugin.com/?r=gfcf7" rel="nofollow">Gravity Forms</a>
+> This plugin requires both the <a href="http://wordpress.org/extend/plugins/contact-form-7/" rel="nofollow">Contact Form 7 plugin</a> and the amazing contact form plugin <a href="http://www.formplugin.com/?r=gfcf7" rel="nofollow">Gravity Forms</a>
 
 ### Import your existing Contact Form 7 forms into Gravity Forms
 If you are migrating from Contact Form 7 to Gravity Forms, this is the tool for you. Easily import your CF7 forms into Gravity Forms rather than re-creating them manually.
