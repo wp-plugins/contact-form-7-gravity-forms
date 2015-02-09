@@ -1,16 +1,23 @@
 === Contact Form 7 Gravity Forms Importer ===
-Tags: gravity forms, forms, gravity, form, crm, gravity form, mail, email, newsletter, Constant Contact, plugin, sidebar, widget, mailing list, API, email marketing, newsletters
-Requires at least: 2.8
-Tested up to: 3.5
+Tags: gravity forms, forms, gravity, form, crm, gravity form, contact form 7, importer, cf7
+Requires at least: 3.3
+Tested up to: 4.1
 Stable tag: trunk
-Contributors: katzwebdesign
-Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=zackkatz%40gmail%2ecom&item_name=Contact%20Form%207%20Gravity%20Forms%20Importer&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
+Contributors: katzwebdesign, katzwebservices
+Donate link:https://www.gravityview.co
 
 Convert Contact Form 7 forms into Gravity Forms forms.
 
 == Description ==
 
-### Import your existing Contact Form 7 forms into Gravity Forms
+## Re-written! Ignore the bad reviews :-)
+
+We've finally re-written the plugin, so check it out and see for yourself before you let the bad reviews stop you!
+
+
+> This plugin requires both the <a href="http://wordpress.org/extend/plugins/contact-form-7/" rel="nofollow">Contact Form 7 plugin and the amazing contact form plugin <a href="http://www.formplugin.com/?r=gfcf7" rel="nofollow">Gravity Forms</a>
+
+## Import your existing Contact Form 7 forms into Gravity Forms
 If you are migrating from Contact Form 7 to Gravity Forms, this is the tool for you. Easily import your CF7 forms into Gravity Forms rather than re-creating them manually.
 
 * Recreate notification emails inside Gravity Forms
@@ -26,14 +33,14 @@ For those of you using the <a href="http://wordpress.org/extend/plugins/contact-
 
 #### Other Gravity Forms Add-ons:
 
-* <a href="http://wordpress.org/extend/plugins/gravity-forms-mad-mimi/">Gravity Forms Mad Mimi Add-on</a> - Integrate Gravity Forms with Mad Mimi, a beautiful email marketing service.
-* <a href="http://wordpress.org/extend/plugins/gravity-forms-highrise/">Gravity Forms Highrise Add-on</a> - Integrate Gravity Forms with Highrise, a CRM
-* <a href="http://wordpress.org/extend/plugins/gravity-forms-addons/">Gravity Forms Directory & Addons</a> - Turn Gravity Forms into a WordPress Directory plugin.
-* <a href="http://wordpress.org/extend/plugins/gravity-forms-constant-contact/">Gravity Forms + Constant Contact</a> - If you use Constant Contact and Gravity Forms, this plugin is for you.
+* <a href="http://gravityview.co">GravityView</a> - Display your Gravity Forms entries on your website.
+* <a href="http://wordpress.org/plugins/gravity-forms-mad-mimi/">Gravity Forms Mad Mimi Add-on</a> - Integrate Gravity Forms with Mad Mimi, a beautiful email marketing service.
+* <a href="http://wordpress.org/plugins/gravity-forms-highrise/">Gravity Forms Highrise Add-on</a> - Integrate Gravity Forms with Highrise, a CRM
+* <a href="http://wordpress.org/plugins/gravity-forms-constant-contact/">Gravity Forms + Constant Contact</a> - If you use Constant Contact and Gravity Forms, this plugin is for you.
 
 == Screenshots ==
 
-1. A view of the form import page
+1. The import page
 
 
 == Installation == 
@@ -54,13 +61,17 @@ For those of you using the <a href="http://wordpress.org/extend/plugins/contact-
 4. Click "Import from Contact Form 7"
 5. The form should import!
 
+= Does the plugin support Contact Form 7 2.x? =
+
+Nope, sorry. Upgrade CF7 before using this plugin.
+
 = What is the plugin license? =
 This plugin is released under a GPL license.
 
 == Upgrade Notice ==
 
-= 1.0.2 =
-* Fixed: Now pulls more than just five of the latest forms <a href="http://wordpress.org/support/topic/only-a-small-selection-of-forms-in-dropdown-list">as reported here</a>.
+= 2.0 =
+* Major update - fixes issues with Contact Form 7 3.x and Graviy Forms 1.8+
 
 = 1.0.1 =
 * Added option to combine address & name fields
@@ -70,8 +81,10 @@ This plugin is released under a GPL license.
 
 == Changelog ==
 
-= 1.0.2 =
-* Fixed: Now pulls more than just five of the latest forms <a href="http://wordpress.org/support/topic/only-a-small-selection-of-forms-in-dropdown-list">as reported here</a>.
+= 2.0 on February 8, 2015 =
+* Major update - fixes issues with Contact Form 7 3.x and Graviy Forms 1.8+
+* No longer supports Contact Form 7 2.x
+* Added translation files
 
 = 1.0.1 =
 * Added option to combine address & name fields
